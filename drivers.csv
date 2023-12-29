@@ -1,0 +1,2 @@
+"id","driver_name","is_online","car_info","phone","price","order_id","type","user_id","car_model","car_color","car_color_key","car_body","car_year","car_number","balance","dispatcher_type","driver_number","phone_number2","default_car","template_id","photo_url","rating","car_id","status","message","work_status"
+1,"Miko",0,"Mers Car","77752632438","50",121,"sapar",1,"audi","green","green","sedan","2012","axsasx",10,NULL,"7777777",NULL,NULL,NULL,NULL,"5.0",NULL,"canceled_by_admin","частые отмены заказа",NULL

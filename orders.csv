@@ -1,0 +1,124 @@
+"order_id","status","created_at","user_id","yandex_order_id","app_type","tariff","price","fb_token","driver_id","is_share_trip","passenger_count","alem_order_id","bonus_count","admin_login","pre_order_date","platform","bonus_for_order"
+1,"completed","2023-11-20 00:52:28.64791+06",3,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+2,"approved","2023-11-20 15:54:52.110473+06",3,NULL,"admin","e","100",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+3,"completed","2023-11-20 16:04:54.021827+06",3,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+4,"completed","2023-12-04 09:20:23.451457+06",3,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+5,"completed","2023-11-20 16:46:15.754877+06",4,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+6,"completed","2023-11-21 12:57:31.255381+06",4,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+7,"completed","2023-11-21 13:01:19.277326+06",4,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+8,"completed","2023-11-22 09:35:40.58132+06",4,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+9,"completed","2023-11-22 09:38:27.004502+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+10,"completed","2023-11-22 09:39:08.857362+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+11,"completed","2023-11-22 09:39:41.824883+06",4,NULL,"admin","e","1888",NULL,1,0,1,NULL,NULL,"Miko Miko",NULL,"est",NULL
+12,"completed","2023-11-22 09:41:36.218326+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,NULL,NULL,"Miko Miko",NULL,"est",NULL
+13,"completed","2023-11-22 09:44:29.072161+06",4,NULL,"admin","e","1888",NULL,1,0,1,NULL,NULL,"Miko Miko",NULL,"est",NULL
+14,"completed","2023-11-22 09:50:02.925168+06",1,NULL,"sapar","e","500",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+15,"search_car","2023-11-22 09:52:08.590583+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+16,"completed","2023-11-22 09:55:04.320899+06",1,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+17,"completed","2023-11-22 10:02:33.024931+06",1,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+18,"completed","2023-11-22 10:03:55.667579+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+19,"completed","2023-11-22 10:04:25.543652+06",1,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+20,"assigned","2023-11-22 11:54:55.224371+06",1,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+21,"completed","2023-11-22 11:59:58.043381+06",1,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+22,"completed","2023-11-22 12:03:24.182266+06",1,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+23,"search_car","2023-11-22 12:06:49.180769+06",1,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+24,"completed","2023-11-24 14:07:01.61208+06",4,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+25,"completed","2023-11-24 14:11:45.116328+06",4,NULL,"admin","e","1888",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+26,"completed","2023-11-24 14:12:19.953551+06",4,NULL,"admin","e","20000",NULL,1,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+27,"completed","2023-11-24 17:02:09.738544+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+28,"completed","2023-11-24 17:03:05.153896+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+29,"completed","2023-11-24 17:03:44.96663+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+30,"completed","2023-11-24 17:05:27.937183+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+31,"completed","2023-11-24 17:05:59.267433+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+32,"completed","2023-11-24 17:07:25.362809+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+33,"completed","2023-11-24 17:45:15.745161+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+34,"completed","2023-11-24 17:46:10.52254+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+35,"completed","2023-11-24 17:46:36.976217+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+36,"completed","2023-11-24 17:48:16.775833+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+37,"completed","2023-11-24 18:31:11.794254+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+38,"completed","2023-11-24 18:31:32.243333+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+39,"completed","2023-11-28 11:25:01.397973+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+40,"completed","2023-11-28 11:25:35.497014+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+41,"completed","2023-11-28 11:26:17.500452+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+42,"completed","2023-11-30 17:18:15.326142+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+43,"completed","2023-11-30 17:18:58.741139+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+44,"completed","2023-11-30 17:19:46.424903+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+45,"completed","2023-11-30 17:20:52.863625+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+46,"completed","2023-11-30 17:22:26.987408+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+47,"completed","2023-11-30 17:24:34.66141+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+48,"completed","2023-11-30 17:25:10.015178+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+49,"completed","2023-11-30 17:25:41.829467+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+50,"completed","2023-11-30 17:26:08.186948+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+51,"completed","2023-11-30 17:27:45.242518+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+52,"completed","2023-11-30 17:28:16.853252+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+53,"completed","2023-11-30 17:34:22.646127+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+54,"completed","2023-11-30 17:35:08.965177+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+55,"completed","2023-11-30 17:40:58.399334+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+56,"completed","2023-12-01 11:20:18.82832+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+57,"search_car","2023-12-02 15:50:30.382153+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+58,"search_car","2023-12-02 15:51:24.807232+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+59,"search_car","2023-12-02 15:53:05.079847+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,NULL,NULL
+60,"search_car","2023-12-02 16:01:32.692739+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+61,"search_car","2023-12-03 09:29:46.315873+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+62,"search_car","2023-12-03 09:48:07.021447+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+63,"search_car","2023-12-03 09:48:51.364616+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+64,"search_car","2023-12-05 17:18:10.935618+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+65,"completed","2023-12-06 12:53:15.011375+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+66,"completed","2023-12-06 12:56:48.001192+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+67,"completed","2023-12-06 12:58:43.158256+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+68,"completed","2023-12-06 12:59:22.551475+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+69,"completed","2023-12-06 13:01:53.524362+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+70,"completed","2023-12-06 13:02:14.396366+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+71,"completed","2023-12-06 13:05:19.71104+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+72,"completed","2023-12-06 13:06:04.389913+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+73,"completed","2023-12-08 14:16:58.157464+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+74,"completed","2023-12-08 14:17:34.392308+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+75,"completed","2023-12-08 15:26:48.789947+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+76,"completed","2023-12-08 15:27:48.646125+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+77,"completed","2023-12-08 15:28:13.326677+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+78,"completed","2023-12-08 15:29:36.130946+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+79,"completed","2023-12-08 15:30:48.855169+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+80,"completed","2023-12-08 15:33:50.632772+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+81,"completed","2023-12-08 16:11:49.510813+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+82,"completed","2023-12-08 16:44:10.869125+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+83,"completed","2023-12-08 16:47:02.840437+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+84,"completed","2023-12-08 16:48:24.718122+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+85,"completed","2023-12-08 16:52:12.658204+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+86,"completed","2023-12-08 16:54:49.079895+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+87,"completed","2023-12-08 16:58:30.982737+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+88,"completed","2023-12-08 16:59:27.838966+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+89,"completed","2023-12-08 17:00:38.429006+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+90,"completed","2023-12-08 17:01:57.079425+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+91,"completed","2023-12-08 17:02:27.348954+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+92,"completed","2023-12-08 17:08:59.942666+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+93,"completed","2023-12-08 17:12:20.972923+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+94,"completed","2023-12-08 17:16:22.29716+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+95,"completed","2023-12-08 17:17:06.018787+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+96,"completed","2023-12-08 17:53:17.800639+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+97,"completed","2023-12-08 17:54:52.475545+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+98,"completed","2023-12-08 17:55:16.261343+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+99,"completed","2023-12-08 18:33:15.563773+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+100,"completed","2023-12-08 18:35:04.702+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+101,"completed","2023-12-08 18:37:53.430994+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+102,"completed","2023-12-08 18:40:01.837767+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+103,"completed","2023-12-08 18:48:37.396477+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+104,"completed","2023-12-08 19:14:17.707774+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+105,"completed","2023-12-08 19:16:14.066918+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+106,"completed","2023-12-08 19:28:57.685296+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+107,"completed","2023-12-08 19:29:44.736704+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+108,"completed","2023-12-08 19:36:42.313286+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+109,"completed","2023-12-08 19:37:08.384696+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+110,"completed","2023-12-08 19:38:15.65181+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+111,"completed","2023-12-08 19:39:01.94371+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+112,"search_car","2023-12-12 20:02:20.703412+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+113,"search_car","2023-12-12 20:08:17.327142+06",1,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+114,"search_car","2023-12-12 20:11:36.80485+06",5,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+115,"search_car","2023-12-27 12:53:55.872735+06",5,NULL,"sapar","e","50",NULL,NULL,1,4,NULL,1,NULL,NULL,"android",NULL
+116,"completed","2023-12-27 12:59:47.875981+06",5,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android","1000"
+117,"assigned","2023-12-27 13:26:25.996558+06",5,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+118,"assigned","2023-12-27 13:28:03.848857+06",5,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+119,"assigned","2023-12-27 13:29:00.951778+06",5,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+120,"assigned","2023-12-27 13:29:41.74502+06",5,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+121,"completed","2023-12-27 13:30:59.964293+06",5,NULL,"sapar","e","50",NULL,1,1,4,NULL,1,NULL,NULL,"android",NULL
+122,"search_car","2023-12-27 23:43:29.209213+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"1867352233280",NULL,"Miko Miko",NULL,"est",NULL
+123,"search_car","2023-12-27 23:44:45.885434+06",4,NULL,"admin","e","1888",NULL,NULL,0,1,"18673522332801",NULL,"Miko Miko",NULL,"est",NULL
